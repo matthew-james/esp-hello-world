@@ -23,3 +23,7 @@ make && make flash
 ````bash
 esp-console 9600
 ````
+
+## Credits
+
+The Makefile is based on [https://github.com/esp8266/source-code-examples](https://github.com/esp8266/source-code-examples).  user_main.c is based on [Matt Callow's code here](https://github.com/mattcallow/esp8266-sdk/blob/master/apps/03hellowworld/user/user_main.c).
